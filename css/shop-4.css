@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+#all{}
+#all>.all{width: 1200px;margin: auto;position:relative;font-size:0 ;}
+#all>.all>.all-1{height: 16px;position: absolute;top:10px;overflow: hidden;}
+#all>.all>.all-1>a{height: 16px;width: 16px;position: relative;top:-1px}
+#all>.all>.all-1>span{font: 12px/12px "微软雅黑";position: relative;top:4px;cursor: pointer;color:#666;}
+#all>.all>.all-1>a>img{height: 16px;width: 16px;}
+#all>.all>.all-1>img{height: 12px;width: 12px;}
+#all>.all>.all-2{height: 60px;padding-top: 80px;}
+#all>.all>.all-2>img{height: 14px;float: left;margin-right: 3px;position: relative;top: 23px;right: -2px;}
+#all>.all>.all-2>a{height: 60px;width: 275px;font: 12px/60px "微软雅黑";background-color: skyblue;color: #FFFFFF;text-align: center;display: block;float: left;}
+#all>.all>.all-2>a>img{height: 14px;position: relative;top:-2px;left:-10px;}
+
+
+#complete{}
+#complete>.complete{width: 1200px;margin: auto;}
+#complete>.complete>.complete-1{width: 620px;margin: auto;}
+#complete>.complete>.complete-1>p:nth-of-type(1){margin-top: 57px;font: 16px/16px "微软雅黑";font-weight: 800;text-align: center;color: #666666;margin-bottom:40px ;}
+#complete>.complete>.complete-1>span{font: 12px/2 "微软雅黑";color: #666666;text-align: center;display: block;}
+#complete>.complete>.complete-1>p:nth-of-type(2){font: 16px/136px "微软雅黑";color: #666666;font-weight: 800;text-align: center;}
+#complete>.complete>.complete-1>p:nth-of-type(3){height: 216px;width: 618px;border: 1px solid #CCCCCC;}
+#complete>.complete>.complete-1>p:nth-of-type(3)>span:nth-of-type(1){margin-top:50px ;}
+#complete>.complete>.complete-1>p:nth-of-type(3)>span{font: 12px/2 "微软雅黑";color: #666666;text-align: center;display: block;}
+#complete>.complete>.complete-1>p:nth-of-type(3)>a{display: block;width: 300px;height: 50px;background-color: skyblue;font: 12px/50px "微软雅黑";color: #FFFFFF;text-align: center;border-radius: 5px;margin:20px auto;}
+#complete>.complete>.complete-1>h3{font: 16px/16px "微软雅黑";color: #666666;font-weight: 800;text-align: center;margin:60px 0 68px 0 ;}
+#complete>.complete>.complete-1>.complete-2{width: 620px;height: 258px;border: 1px solid #CCCCCC;}
+
+#complete>.complete>.complete-1>.complete-2>.complete-l-3{height: 127px;padding-top: 80px;border-bottom: 1px solid #CCCCCC;margin: 0 34px;position: relative;}
+#complete>.complete>.complete-1>.complete-2>.complete-l-3>.complete-l-3-1{float: left;width: 80px;}
+#complete>.complete>.complete-1>.complete-2>.complete-l-3>.complete-l-3-1>a>img{width: 80px;height: 120px;}
+#complete>.complete>.complete-1>.complete-2>.complete-l-3>.complete-l-3-2{float: left;margin-left: 20px;}
+#complete>.complete>.complete-1>.complete-2>.complete-l-3>.complete-l-3-2>.complete-l-3-t{width: 450px;}
+#complete>.complete>.complete-1>.complete-2>.complete-l-3>.complete-l-3-2>.complete-l-3-t>.complete-l-3-t-1{}
+#complete>.complete>.complete-1>.complete-2>.complete-l-3>.complete-l-3-2>.complete-l-3-t>.complete-l-3-t-1>p{font: 12px/2 "微软雅黑";color: #666666;}
+#complete>.complete>.complete-1>.complete-2>.complete-l-3>.complete-l-3-2>.complete-l-3-t>.complete-l-3-t-1>p:nth-of-type(2){padding-bottom: 25px;border-bottom: 1px #CCCCCC dashed;}
+#complete>.complete>.complete-1>.complete-2>.complete-l-3>.complete-l-3-2>.complete-l-3-b{}
+#complete>.complete>.complete-1>.complete-2>.complete-l-3>.complete-l-3-2>.complete-l-3-b>span{font: 12px/54px "微软雅黑";color: #666666;}
+#complete>.complete>.complete-1>.complete-2>.complete-l-3>.complete-l-3-3{position: absolute;right: 0px;}
+#complete>.complete>.complete-1>.complete-2>.complete-l-3>.complete-l-3-3>a{height: 26px;width: 26px;background-color:#00BFFF;display: block;float: left;margin-left:2px ;}
+#complete>.complete>.complete-1>.complete-2>.complete-l-3>.complete-l-3-3>a:nth-of-type(1){background-color: #315096;}
+#complete>.complete>.complete-1>.complete-2>.complete-l-3>.complete-l-3-3>a:nth-of-type(2){background-color: #00c300;}
+#complete>.complete>.complete-1>.complete-2>.complete-l-3>.complete-l-3-3>a>img{width: 15px;height: 14px;margin:6px 0 0 6px;}
+#complete>.complete>.complete-1>a{display: block;width: 300px;height: 50px;background-color: skyblue;font: 12px/50px "微软雅黑";color: #FFFFFF;text-align: center;border-radius: 5px;margin:50px auto;}

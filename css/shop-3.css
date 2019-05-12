@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+#all{}
+#all>.all{width: 1200px;margin: auto;position:relative;font-size:0 ;}
+#all>.all>.all-1{height: 16px;position: absolute;top:10px;overflow: hidden;}
+#all>.all>.all-1>a{height: 16px;width: 16px;position: relative;top:-1px}
+#all>.all>.all-1>span{font: 12px/12px "微软雅黑";position: relative;top:4px;cursor: pointer;color:#666;}
+#all>.all>.all-1>a>img{height: 16px;width: 16px;}
+#all>.all>.all-1>img{height: 12px;width: 12px;}
+#all>.all>.all-2{height: 60px;padding-top: 80px;}
+#all>.all>.all-2>img{height: 14px;float: left;margin-right: 3px;position: relative;top: 23px;right: -2px;}
+#all>.all>.all-2>a{height: 60px;width: 275px;font: 12px/60px "微软雅黑";color: #666666;text-align: center;display: block;float: left;border:1px solid #CCCCCC ;}
+#all>.all>.all-2>a>img{height: 14px;position: relative;top:-2px;left:-10px;}
+#all>.all>.all-2>a:nth-of-type(1){background-color: skyblue;color: #FFFFFF;border: none;}
+#all>.all>.all-2>a:nth-of-type(2){background-color: skyblue;color: #FFFFFF;border: none;}
+#all>.all>.all-2>a:nth-of-type(3){background-color: skyblue;color: #FFFFFF;border: none;}
+#all>.all>.all-3{height: 20px;padding: 44px 0;}
+#all>.all>.all-3>a{font: 20px/20px "微软雅黑";font-weight:800;text-align: center;width: 180px;margin: auto;display: block;color:#666;}
+
+
+#confirm{}
+#confirm>.confirm{width: 1200px;margin: auto;overflow: hidden;}
+#confirm>.confirm>.confirm-l{float: left;width: 930px;border-top:2px solid #004098;margin-top: 24px;}
+#confirm>.confirm>.confirm-l>.confirm-l-1{height: 108px;border-bottom: 1px solid #CCCCCC;}
+#confirm>.confirm>.confirm-l>.confirm-l-1>.confirm-l-1-1{padding-top:33px ;height: 12px;}
+#confirm>.confirm>.confirm-l>.confirm-l-1>.confirm-l-1-1>span{font: 12px/12px "微软雅黑";color: #666666;float: left;}
+#confirm>.confirm>.confirm-l>.confirm-l-1>.confirm-l-1-1>span:nth-of-type(1){margin-right: 113px;}
+#confirm>.confirm>.confirm-l>.confirm-l-1>p{font: 12px/2 "微软雅黑";color: #666666;margin-left: 160px;}
+#confirm>.confirm>.confirm-l>.confirm-l-2{height: 80px;border-bottom: 1px solid #CCCCCC;}
+#confirm>.confirm>.confirm-l>.confirm-l-2>.confirm-l-2-1{padding-top:33px ;height: 12px;}
+#confirm>.confirm>.confirm-l>.confirm-l-2>.confirm-l-2-1>span{font: 12px/12px "微软雅黑";color: #666666;float: left;}
+#confirm>.confirm>.confirm-l>.confirm-l-2>.confirm-l-2-1>span:nth-of-type(1){margin-right: 113px;}
+#confirm>.confirm>.confirm-l>.confirm-l-2>.confirm-l-2-1>a{float: right;    display: block;width: 60px; height: 20px;background-color: #ea1a1a;font: 12px/20px "微软雅黑";color: #FFFFFF;border-radius: 4px;margin-bottom: 4px;text-align: center;opacity: 0.9;}
+#confirm>.confirm>.confirm-l>.confirm-l-2>.confirm-l-2-1>a>img{width: 12px;height: 12px; margin-bottom: 4px;margin-left: 4px;}
+#confirm>.confirm>.confirm-l>.confirm-l-3{height: 154px;padding-top: 34px;border-bottom: 1px solid #CCCCCC;}
+#confirm>.confirm>.confirm-l>.confirm-l-3>span{font: 12px/12px "微软雅黑";color: #666666;display: block;width: 160px;float: left;}
+#confirm>.confirm>.confirm-l>.confirm-l-3>.confirm-l-3-1{float: left;margin-right: 34px;}
+#confirm>.confirm>.confirm-l>.confirm-l-3>.confirm-l-3-1>a>img{width: 80px;height: 120px;}
+#confirm>.confirm>.confirm-l>.confirm-l-3>.confirm-l-3-2{float: left;}
+#confirm>.confirm>.confirm-l>.confirm-l-3>.confirm-l-3-2>.confirm-l-3-t{width: 650px;}
+#confirm>.confirm>.confirm-l>.confirm-l-3>.confirm-l-3-2>.confirm-l-3-t>.confirm-l-3-t-1{}
+#confirm>.confirm>.confirm-l>.confirm-l-3>.confirm-l-3-2>.confirm-l-3-t>.confirm-l-3-t-1>.c-c{overflow: hidden;}
+#confirm>.confirm>.confirm-l>.confirm-l-3>.confirm-l-3-2>.confirm-l-3-t>.confirm-l-3-t-1>.c-c>p{float: left;font: 12px/2 "微软雅黑";color: #666666;}
+#confirm>.confirm>.confirm-l>.confirm-l-3>.confirm-l-3-2>.confirm-l-3-t>.confirm-l-3-t-1>.c-c>p:nth-of-type(1){margin-right: 353px;}
+#confirm>.confirm>.confirm-l>.confirm-l-3>.confirm-l-3-2>.confirm-l-3-t>.confirm-l-3-t-1>p{font: 12px/2 "微软雅黑";color: #666666;padding-bottom: 30px;border-bottom: 1px dashed #CCCCCC;}
+#confirm>.confirm>.confirm-l>.confirm-l-3>.confirm-l-3-2>.confirm-l-3-b{}
+#confirm>.confirm>.confirm-l>.confirm-l-3>.confirm-l-3-2>.confirm-l-3-b{font: 12px/58px "微软雅黑";color: #666666;}
+#confirm>.confirm>.confirm-r{float: left;width: 220px;margin-left: 20px;overflow: hidden;}
+#confirm>.confirm>.confirm-r>.confirm-r-t{border-bottom:2px solid #004098;}
+#confirm>.confirm>.confirm-r>.confirm-r-t>span{font: 12px/2 "微软雅黑";color: #666666;margin-left:84px ;}
+#confirm>.confirm>.confirm-r>.confirm-r-c{padding-bottom:20px ;border-bottom: 2px #004098 solid;padding-top: 30px;}
+#confirm>.confirm>.confirm-r>.confirm-r-c>p{height:24px}
+#confirm>.confirm>.confirm-r>.confirm-r-c>p>span{font: 12px/2 "微软雅黑";color: #666666;float: right;}
+#confirm>.confirm>.confirm-r>.confirm-r-c>p>span:nth-last-of-type(2){margin-left: 60px;}
+#confirm>.confirm>.confirm-r>.confirm-r-c>p:nth-of-type(2)>span{color: #EA1A1A;}
+
+#confirm>.confirm>.confirm-r>.confirm-r-b{}
+#confirm>.confirm>.confirm-r>.confirm-r-b>a:nth-of-type(1){height: 50px;width: 220px;background: skyblue;color: #ffffff;display: block;margin-top: 5px;border-radius: 5px;text-align: center;font: 12px/50px "微软雅黑";}
+#confirm>.confirm>.confirm-r>.confirm-r-b>a:nth-of-type(2){display: block;font: 12px/44px "微软雅黑";color: #666666;}
+#confirm>.confirm>.confirm-r>.confirm-r-b>a:nth-of-type(2)>img{width: 12px;height: 12px;}

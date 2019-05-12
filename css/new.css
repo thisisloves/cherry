@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+#all{}
+#all>.all{width: 1200px;margin: auto;position:relative;font-size:0;height: 16px;}
+#all>.all>.all-1{height: 16px;position: absolute;top:10px}
+#all>.all>.all-1>a{height: 16px;width: 16px;position: relative;top:-1px}
+#all>.all>.all-1>span{font: 12px/12px "微软雅黑";position: relative;top:4px;cursor: pointer;color:#666;}
+#all>.all>.all-1>a>img{height: 16px;width: 16px;}
+#all>.all>.all-1>img{height: 12px;width: 12px;}
+#all>.all>.all-2{height: 20px;padding: 44px 0;}
+#all>.all>.all-2>a{font: 20px/20px "微软雅黑";font-weight:800;text-align: center;width: 80px;margin: auto;display: block;color:#666;}
+
+#m{}
+#m>.m{width: 1200px;margin: auto;}
+#m>.m>ul{overflow: hidden;}
+#m>.m>ul>li{width: 290px;margin: 0 5px;float: left;}
+#m>.m>ul>li>a{display: block;position: relative;}
+#m>.m>ul>li>a>img{width: 290px;height: 430px;}
+#m>.m>ul>li>a>img:hover{transform: scale(1.1);}
+#m>.m>ul>li>a>.m-1{height: 18px;display: block;margin-top:15px;}
+#m>.m>ul>li>a>.m-1>b{width: 18px;height: 18px;font: 12px/18px "微软雅黑";color: #ffffff;background-color:#e94d8c;text-align: center;float: left;margin-right: 3px;}
+#m>.m>ul>li>a>.m-1>em{height: 18px;font: 12px/18px "微软雅黑";color: #ffffff;background-color:darkturquoise;text-align: center;display: block;width:36px;float: left;margin-right: 3px;}
+#m>.m>ul>li>a>.m-1>em{height: 18px;font: 12px/18px "微软雅黑";color: #ffffff;background-color:darkturquoise;text-align: center;display: block;width:36px;float: left;margin-right: 3px;}
+#m>.m>ul>li>a>span{font: 12px/2 "微软雅黑";display: block;}
+#m>.m>ul>li>a>.m-2{height: 24px;}
+#m>.m>ul>li>a>.m-2>u{font: 12px/2 "微软雅黑";display: block;float: left;margin-left: 8px;color: #E62318;}
+#m>.m>ul>li>a>.m-2>del{font: 12px/2 "微软雅黑";display: block;float: left;}
+#m>.m>ul>li>a>.m-3{height: 20px;margin-bottom: 20px;}
+#m>.m>ul>li>a>.m-3>i{width: 12px;height: 12px;border-radius:50%;background: salmon;display: block;float: left;margin: 4px 3px 4px 3px;}
+#m>.m>ul>li>a>.m-3>i:nth-of-type(1){background-color: salmon;}
+#m>.m>ul>li>a>.m-3>i:nth-of-type(2){background-color: skyblue;}
+#m>.m>ul>li>a>.m-3>i:nth-of-type(3){background-color: sandybrown;}
+#m>.m>ul>li>a>.m-4{width: 20px;height: 20px;position: absolute;left:270px;bottom:0px;}
+#m>.m>ul>li>a>.m-4>img{width: 20px;height: 20px;}
